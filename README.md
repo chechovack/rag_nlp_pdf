@@ -24,7 +24,6 @@ Permitir la consulta en lenguaje natural de documento complejos específicos del
 
 ## 🧠 Arquitectura
 [PDF Original]
-↓ Segmentación & Resumen
 ↓ Embeddings con MiniLM
 ↓ FAISS Index
 ↓ QA con DistilBERT
